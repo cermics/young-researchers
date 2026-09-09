@@ -39,7 +39,7 @@ navbar-links:
     - Colloquium: "https://cermics.github.io/colloquium"
     - Applied Mathematics: "https://cermics.github.io/applied-mathematics"
     - Young Researchers: ""
-    - Stochastic Methods and Finance: "https://cermics.github.io/cermics/smf"
+    - Stochastic Methods and Finance: "https://cermics.gitlab.enpc.fr/alfonsi/GTMSF.html"
     - Data Transitions: "https://cermics.github.io/data-transitions"
   People: "https://cermics.github.io/cermics/staff"
   How to Find Us: "https://cermics.github.io/cermics/how-to-find-us"
