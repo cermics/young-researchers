@@ -1,31 +1,47 @@
+- TI: "Diffraction of waves by finite thin coatings: asymptotic expansion and effective models"
+  AU: Cédric Baudet
+  Ahref: "https://cv.hal.science/cedricbaudet"
+  labo: UMA (ENSTA)
+  date: 2026/09/15
+  hour: "14:15"
+  where: CERMICS seminar room
+  next: "yes"
 - TI: "Comparing probability measures in Reproducing Kernel Hilbert Spaces. Application to domain adaptation"
   AU: Guillaume Chennetier
-  labo: CERMICS	
-  date: 2026/06/09
-  hour: "15h30"
-  where: CERMICS seminar room
-  next: "yes"
-- TI: "Constructing sharp and handy approximations of eigenfunctions and eigenvalues"
-  AU: Lois Delande
+  Ahref: "https://guillaumechennetier.owlstown.net"
   labo: CERMICS
-  date: 2026/06/24
-  hour: "15h00"
-  where: CERMICS seminar room
-  next: "yes"
-- TI: "TBA"
-  AU: Solène Delannoy-Pavy
-  labo: CERMICS
-  date: 2026/07/07
-  hour: "15h00"	
+  date: 2026/09/22
+  hour: "14:00"
   where: CERMICS seminar room
   next: "yes"
 - TI: "Contributions in modelling and control of traffic flow"
   AU: Nail Baloul
+  Ahref: "https://nailbaloul.github.io"
   labo: CERMICS
   date: 2026/07/21
   hour: "15h00"	
   where: CERMICS seminar room
-  next: "yes"
+- TI: "Linear Programming for large Markov Decision Processes and an application to a maintenance problem at RTE"
+  AU: Solène Delannoy-Pavy
+  Ahref: "https://solenedelannoy.github.io"
+  labo: CERMICS
+  date: 2026/07/07
+  hour: "15h00"	
+  where: CERMICS seminar room
+- TI: "Constructing sharp and handy approximations of eigenfunctions and eigenvalues"
+  AU: Lois Delande
+  Ahref: "https://ldelande.perso.math.cnrs.fr"
+  labo: CERMICS
+  date: 2026/06/24
+  hour: "15h00"
+  where: CERMICS seminar room
+- TI: "When order matters: the Lie bracket, from classical vector fields to nonlocal transport"
+  AU: Vincent Boulard
+  Ahref: "https://vincentboulard.fr"
+  labo: CERMICS
+  date: 2026/06/09
+  hour: "15:30"
+  where: CERMICS seminar room
 - TI: "An extended approach of quantum embedding methods in Density Matrix Embedding Theory"
   Ahref: "https://team.inria.fr/matherials/team-members/alicia-negre/"
   AU: Alicia Negre
@@ -33,21 +49,6 @@
   date: 2026/05/19
   hour: "15:00"
   where: CERMICS seminar room
-  next: "yes"
-- TI: "TBA"
-  AU: Guillaume Chennetier
-  labo: CERMICS
-  date: 2026/06/09
-  hour: "15:00"
-  where: CERMICS seminar room
-  next: "yes"
-- TI: "Linear independence properties of the signature components of time-augmented stochastic processes"
-  AU: Lois Delande
-  labo: CERMICS
-  date: 2026/06/24
-  hour: "15:00"
-  where: CERMICS seminar room
-  next: "yes"
 - TI: "Linear independence properties of the signature components of time-augmented stochastic processes"
   Ahref: "https://arthurbourdon.github.io"
   AU: Arthur Bourdon
