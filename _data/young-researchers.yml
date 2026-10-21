@@ -5,7 +5,7 @@
   date: 2026/15/10
   hour: "14:00"
   where: CERMICS seminar room
-  - TI: "Comparing probability measures in Reproducing Kernel Hilbert Spaces. Application to domain adaptation"
+- TI: "Comparing probability measures in Reproducing Kernel Hilbert Spaces. Application to domain adaptation"
   AU: Guillaume Chennetier
   Ahref: "https://guillaumechennetier.owlstown.net"
   labo: CERMICS
