@@ -7,8 +7,8 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 
 ### Organizers of the seminar
 <a href="https://elisebonnetweill.github.io/" target="_blank">Elise Bonnet-Weil</a>,
-<a href="https://owenjosse.github.io/" target="_blank">Owen Josse</a>, 
 <a href="https://louiscarillo.github.io/" target="_blank">Louis Carillo</a>,
+<a href="https://owenjosse.github.io/" target="_blank">Owen Josse</a>, 
 <a href="https://sites.google.com/view/rosesossouedou" target="_blank">Rose Sossou Edou</a>.
 
 ### Forthcoming presentations and events
