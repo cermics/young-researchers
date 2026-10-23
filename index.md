@@ -9,7 +9,7 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 <a href="https://elisebonnetweill.github.io/" target="_blank">Elise Bonnet-Weil</a>,
 <a href="https://owenjosse.github.io/" target="_blank">Owen Josse</a>, 
 <a href="https://louiscarillo.github.io/" target="_blank">Louis Carillo</a>,
-<a href="https://sites.google.com/view/rosesossouedou/home" target="_blank">Rose Sossou Edou</a>.
+<a href="https://sites.google.com/view/rosesossouedou" target="_blank">Rose Sossou Edou</a>.
 
 ### Forthcoming presentations and events
 (<a href="https://framagenda.org/apps/calendar/p/QRrqeeZa2jWenYMA" target="_blank">Schedule</a>)
