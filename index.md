@@ -6,10 +6,10 @@ cover-img: /assets/images/coriolis-reunion.jpg
 At CERMICS, we organize roughly every two weeks a seminar for the young researchers, ranging from interns to post-docs. The subject and the format of the presentation are varied, and the seminar is open to everyone who is interested : if you are external to the lab, contact one of the organizers to arrange your visit !
 
 ### Organizers of the seminar
-<a href="https://nailbaloul.github.io/" target="_blank">Nail Baloul</a>, 
-<a href="https://team.inria.fr/matherials/team-members/clement-guillot/" target="_blank">Clement Guillot</a>,
-<a href="https://setar0202.github.io/" target="_blank">Seta Rakotomandimby</a>,
-<a href="https://sites.google.com/view/rosesossouedou/home" target="_blank">Rose Sossou Edou</a>.
+<a href="https://elisebonnetweill.github.io/" target="_blank">Elise Bonnet-Weil</a>,
+<a href="https://louiscarillo.github.io/" target="_blank">Louis Carillo</a>,
+<a href="https://owenjosse.github.io/" target="_blank">Owen Josse</a>, 
+<a href="https://sites.google.com/view/rosesossouedou" target="_blank">Rose Sossou Edou</a>.
 
 ### Forthcoming presentations and events
 (<a href="https://framagenda.org/apps/calendar/p/QRrqeeZa2jWenYMA" target="_blank">Schedule</a>)

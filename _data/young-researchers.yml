@@ -1,11 +1,10 @@
-- TI: "Diffraction of waves by finite thin coatings: asymptotic expansion and effective models"
-  AU: Cédric Baudet
-  Ahref: "https://cv.hal.science/cedricbaudet"
-  labo: UMA (ENSTA)
-  date: 2026/09/15
-  hour: "14:15"
+- TI: "Unfitted Discontinuous Galerkin Methods for the First Order Linear Wave Equations"
+  AU: Tim Haubold
+  Ahref: "https://www.researchgate.net/profile/Tim-Haubold"
+  labo: CERMICS
+  date: 2026/10/15
+  hour: "14:00"
   where: CERMICS seminar room
-  next: "yes"
 - TI: "Comparing probability measures in Reproducing Kernel Hilbert Spaces. Application to domain adaptation"
   AU: Guillaume Chennetier
   Ahref: "https://guillaumechennetier.owlstown.net"
@@ -13,7 +12,13 @@
   date: 2026/09/22
   hour: "14:00"
   where: CERMICS seminar room
-  next: "yes"
+- TI: "Diffraction of waves by finite thin coatings: asymptotic expansion and effective models"
+  AU: Cédric Baudet
+  Ahref: "https://cv.hal.science/cedricbaudet"
+  labo: UMA (ENSTA)
+  date: 2026/09/15
+  hour: "14:15"
+  where: CERMICS seminar room
 - TI: "Contributions in modelling and control of traffic flow"
   AU: Nail Baloul
   Ahref: "https://nailbaloul.github.io"
