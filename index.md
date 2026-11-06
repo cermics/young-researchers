@@ -15,9 +15,10 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 (<a href="https://framagenda.org/apps/calendar/p/QRrqeeZa2jWenYMA" target="_blank">Schedule</a>)
 
 {% for link in site.data.young-researchers %}
+{% assign link_year = link.date | date : "%Y" %}
 {% if link.next == "yes" %}
 {% if link.sem == "scommun" %}
- {{ link.date | date : "%A, %B %-d, %Y" }} {% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{{ link.AU }}**,  
+ {{ link.date | date : "%A, %B %-d, %Y" }} {% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{% if link_year == "2026" and link.Ahref %}<a href="{{ link.Ahref }}">{{ link.AU }}</a>{% else %}{{ link.AU }}{% endif %}**,  
 {{ link.labo }}  
 *{{ link.TI }}
 {% for sublink in link.PROG %}
@@ -26,8 +27,8 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 {{ link.where }}
 {% endfor %}
 {% else %}
-{{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{{ link.AU }}**, {{ link.labo }}  
-*{{ link.TI }}*{% if link.slides %}, <a href="{{ link.slides | relative_url }}">(slides)</a>{% endif %}{% if link.recording %}, <a href="{{ link.recording }}">(recording)</a>{% endif %}.  
+{{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{% if link_year == "2026" and link.Ahref %}<a href="{{ link.Ahref }}">{{ link.AU }}</a>{% else %}{{ link.AU }}{% endif %}**, {{ link.labo }}  
+*{% if link.abstract %}<a href="{{ link.abstract | relative_url }}">{{ link.TI }}</a>{% else %}{{ link.TI }}{% endif %}*{% if link.slides %}, <a href="{{ link.slides | relative_url }}">(slides)</a>{% endif %}{% if link.recording %}, <a href="{{ link.recording }}">(recording)</a>{% endif %}.  
 {{ link.where }}
 {% endif %}
 -------------------------
@@ -38,11 +39,11 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 {% assign year = "3000" %}
 
 {% for link in site.data.young-researchers %}
-{% if link.next != "yes" %}
 {% assign link_year = link.date | date : "%Y" %}
+{% if link.next != "yes" %}
 {% if link_year != year %}{% assign year = link_year %}<h3>{{ year }}</h3>{% endif %}
 {% if link.sem == "scommun" %}
-{{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{{ link.AU }}**, {{ link.labo }}  
+{{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{% if link_year == "2026" and link.Ahref %}<a href="{{ link.Ahref }}">{{ link.AU }}</a>{% else %}{{ link.AU }}{% endif %}**, {{ link.labo }}  
 *{{ link.TI }}
 {% for sublink in link.PROG %}
  - {{ sublink.hour }}: **{{ sublink.AU }}**,  
@@ -50,12 +51,11 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 {{ link.where }}
 {% endfor %}
 {% else %}
-{{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{{ link.AU }}**, {{ link.labo }}  
-*{{ link.TI }}*{% if link.slides %}, <a href="{{ link.slides | relative_url }}">(slides)</a>{% endif %}{% if link.recording %}, <a href="{{ link.recording }}">(recording)</a>{% endif %}.  
+{{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{% if link_year == "2026" and link.Ahref %}<a href="{{ link.Ahref }}">{{ link.AU }}</a>{% else %}{{ link.AU }}{% endif %}**, {{ link.labo }}  
+*{% if link.abstract %}<a href="{{ link.abstract | relative_url }}">{{ link.TI }}</a>{% else %}{{ link.TI }}{% endif %}*{% if link.slides %}, <a href="{{ link.slides | relative_url }}">(slides)</a>{% endif %}{% if link.recording %}, <a href="{{ link.recording }}">(recording)</a>{% endif %}.  
 {{ link.where }}
 {% endif %}
 -------------------------
 {% endif %}
 {% endfor %}
-
 

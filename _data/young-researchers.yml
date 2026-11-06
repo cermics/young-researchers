@@ -1,9 +1,34 @@
+- TI: "Space-Time Variational Principles for the High-Dimensional Schrödinger Equation"
+  abstract: "/abstracts/2026/10-26-clement-guillot/"
+  Ahref: "https://team.inria.fr/matherials/team-members/clement-guillot/"
+  AU: Clément Guillot
+  labo: CERMICS
+  date: 2026/10/26
+  hour: "14:00–16:00"
+  where: CERMICS seminar room
+- TI: "Optimization for Transportation Planning and Periodic Task Scheduling: Rail Freight Crew Management under Train Delays, Line Planning, and Balanced Assignments"
+  abstract: "/abstracts/2026/10-22-heloise-gachet/"
+  Ahref: "https://heloisegachet.github.io"
+  AU: Héloïse Gachet
+  labo: CERMICS
+  date: 2026/10/22
+  hour: "14:00–16:00"
+  where: CERMICS seminar room
+- TI: "Conjugacies in Sparse Optimization and Representation Losses in Machine Learning"
+  abstract: "/abstracts/2026/10-13-seta-rakotomandimby/"
+  Ahref: "https://setar0202.github.io/"
+  AU: Seta Rakotomandimby
+  labo: CERMICS
+  date: 2026/10/13
+  hour: "14:00–16:00"
+  where: CERMICS seminar room
 - TI: "Unfitted Discontinuous Galerkin Methods for the First Order Linear Wave Equations"
+  abstract: "/abstracts/2026/10-06-tim-haubold/"
   AU: Tim Haubold
   Ahref: "https://www.researchgate.net/profile/Tim-Haubold"
   labo: CERMICS
-  date: 2026/10/15
-  hour: "14:00"
+  date: 2026/10/06
+  hour: "15:30"
   where: CERMICS seminar room
 - TI: "Comparing probability measures in Reproducing Kernel Hilbert Spaces. Application to domain adaptation"
   AU: Guillaume Chennetier
@@ -765,6 +790,5 @@
   AU: Adèle Pass-Lanneau
   labo: CERMICS
   date: 2016/06/01
-
 
 
