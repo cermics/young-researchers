@@ -1,5 +1,6 @@
 ---
 layout: page
+abstract_page: true
 title: "Unfitted Discontinuous Galerkin Methods for the First Order Linear Wave Equations"
 permalink: /abstracts/2026/10-06-tim-haubold/
 ---

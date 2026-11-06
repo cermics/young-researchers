@@ -1,5 +1,6 @@
 ---
 layout: page
+abstract_page: true
 title: "Conjugacies in Sparse Optimization and Representation Losses in Machine Learning"
 permalink: /abstracts/2026/10-13-seta-rakotomandimby/
 ---

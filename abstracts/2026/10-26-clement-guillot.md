@@ -1,5 +1,6 @@
 ---
 layout: page
+abstract_page: true
 title: "Space-Time Variational Principles for the High-Dimensional Schrödinger Equation"
 permalink: /abstracts/2026/10-26-clement-guillot/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+abstract_page: true
 title: "Optimization for Transportation Planning and Periodic Task Scheduling: Rail Freight Crew Management under Train Delays, Line Planning, and Balanced Assignments"
 permalink: /abstracts/2026/10-22-heloise-gachet/
 ---
