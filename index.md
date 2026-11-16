@@ -12,7 +12,6 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 <a href="https://sites.google.com/view/rosesossouedou" target="_blank">Rose Sossou Edou</a>.
 
 ### Forthcoming presentations and events
-(<a href="https://framagenda.org/apps/calendar/p/QRrqeeZa2jWenYMA" target="_blank">Schedule</a>)
 
 {% for link in site.data.young-researchers %}
 {% assign link_year = link.date | date : "%Y" %}
@@ -28,7 +27,7 @@ At CERMICS, we organize roughly every two weeks a seminar for the young resear
 {% endfor %}
 {% else %}
 {{ link.date | date : "%A, %B %-d, %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}: **{% if link_year == "2026" and link.Ahref %}<a href="{{ link.Ahref }}">{{ link.AU }}</a>{% else %}{{ link.AU }}{% endif %}**, {{ link.labo }}  
-*{% if link.abstract %}<a href="{{ link.abstract | relative_url }}">{{ link.TI }}</a>{% else %}{{ link.TI }}{% endif %}*{% if link.slides %}, <a href="{{ link.slides | relative_url }}">(slides)</a>{% endif %}{% if link.recording %}, <a href="{{ link.recording }}">(recording)</a>{% endif %}.  
+***{% if link.abstract %}<a href="{{ link.abstract | relative_url }}">{{ link.TI }}</a>{% else %}{{ link.TI }}{% endif %}***{% if link.slides %}, <a href="{{ link.slides | relative_url }}">(slides)</a>{% endif %}{% if link.recording %}, <a href="{{ link.recording }}">(recording)</a>{% endif %}.  
 {{ link.where }}
 {% endif %}
 -------------------------
