@@ -1,4 +1,12 @@
-- TI: "Mathematical analysis and numerical methods in statistical physics for time-dependent or correlated systems"
+- TI: "Probabilistic comparison of voting systems"
+  abstract: "/abstracts/2026/12-08-briac-angot/"
+  AU: Briac Angot
+  labo: CERMICS
+  date: 2026/12/08
+  hour: "15:00"
+  where: CERMICS seminar room
+  next: "yes"
+  - TI: "Mathematical analysis and numerical methods in statistical physics for time-dependent or correlated systems"
   abstract: "/abstracts/2026/11-26-raphael-gastaldello/"
   Ahref: "https://rgastald.github.io"
   AU: Raphaël Gastaldello
